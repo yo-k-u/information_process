@@ -8,7 +8,7 @@
 
 ## 使用法
 
-[repository]()
+[repository](https://github.com/yo-k-u/information_process)
 
 [report1]()
 
